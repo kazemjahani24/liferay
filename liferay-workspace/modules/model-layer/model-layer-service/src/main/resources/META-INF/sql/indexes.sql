@@ -1,0 +1,1 @@
+create index IX_5D0944BE on School_Student (uuid_[$COLUMN_LENGTH:75$]);

@@ -1,0 +1,1 @@
+create index IX_A0ABE1C0 on FOO_Person (uuid_[$COLUMN_LENGTH:75$]);

@@ -1,0 +1,10 @@
+Bundle-Name: model-layer-api
+Bundle-SymbolicName: org.liferayasif.api
+Bundle-Version: 1.0.0
+Export-Package:\
+	org.liferayasif.exception,\
+	org.liferayasif.model,\
+	org.liferayasif.service,\
+	org.liferayasif.service.persistence
+-check: EXPORTS
+-includeresource: META-INF/service.xml=../model-layer-service/service.xml

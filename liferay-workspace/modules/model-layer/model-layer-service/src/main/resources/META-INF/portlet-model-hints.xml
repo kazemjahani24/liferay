@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+
+<model-hints>
+	<model name="org.liferayasif.model.Student">
+		<field name="uuid" type="String" />
+		<field name="studentId" type="long" />
+		<field name="userName" type="String" />
+		<field name="createDate" type="Date" />
+		<field name="modifiedDate" type="Date" />
+		<field name="fatherName" type="String" />
+		<field name="male" type="boolean" />
+		<field name="addressId" type="int" />
+		<field name="dob" type="Date" />
+		<field name="email" type="String" />
+	</model>
+</model-hints>

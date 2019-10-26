@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+
+<model-hints>
+	<model name="org.liferayasif.person.model.Person">
+		<field name="uuid" type="String" />
+		<field name="personId" type="long" />
+		<field name="name" type="String" />
+		<field name="age" type="int" />
+		<field name="gender" type="String" />
+		<field name="emailId" type="String" />
+		<field name="nationality" type="String" />
+		<field name="occupation" type="String" />
+	</model>
+</model-hints>

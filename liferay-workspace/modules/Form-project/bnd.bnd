@@ -1,0 +1,4 @@
+Bundle-Name: Form-project
+Bundle-SymbolicName: org.form.portlt
+Bundle-Version: 1.0.0
+Export-Package: org.form.portlt.constants

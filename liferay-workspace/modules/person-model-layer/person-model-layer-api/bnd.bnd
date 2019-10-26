@@ -1,0 +1,10 @@
+Bundle-Name: person-model-layer-api
+Bundle-SymbolicName: org.liferayasif.person.api
+Bundle-Version: 1.0.0
+Export-Package:\
+	org.liferayasif.person.exception,\
+	org.liferayasif.person.model,\
+	org.liferayasif.person.service,\
+	org.liferayasif.person.service.persistence
+-check: EXPORTS
+-includeresource: META-INF/service.xml=../person-model-layer-service/service.xml
